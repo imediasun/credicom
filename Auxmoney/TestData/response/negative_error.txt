@@ -1,0 +1,10 @@
+{
+    "is_success": false,
+    "violations": [
+        {
+            "message": "Does not match the regex pattern d+$",
+            "parameters": [],
+            "property_path": "contact_data.telephone"
+        }
+    ]
+}

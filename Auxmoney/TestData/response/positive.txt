@@ -1,0 +1,16 @@
+{
+  "violations": [],
+  "user_id": 1454327,
+  "credit_id": 11381143,
+  "is_success": true,
+  "duration": 24,
+  "loan": 5150,
+  "loan_asked": 5000,
+  "rate": 4.35,
+  "eff_rate": 7.26,
+  "insurance_fee": 0,
+  "interest": 236.6,
+  "installment_amount": 224.44,
+  "manual_quality_assurance": true, 
+  "ekf_url": "https://www.auxmoney.com/firstContact/instant/11381143/4ae68761b06d2dc9df6c97683c0dc915"
+}

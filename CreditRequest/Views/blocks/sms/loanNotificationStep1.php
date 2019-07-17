@@ -1,0 +1,1 @@
+Sehr <?= ($creditRequest->getAnr() == 1) ? 'geehrter Herr' : 'geehrte Frau'  ?> <?= $creditRequest->getNachname() ?>, wir haben die Anfrage für Ihren Wunschkredit bearbeitet und senden Ihnen heute einen Kreditvertrag per Post raus.

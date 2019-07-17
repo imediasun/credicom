@@ -1,0 +1,1 @@
+Sehr <?= ($creditRequest->getAnr() == 1) ? 'geehrter Herr' : 'geehrte Frau'  ?> <?= $creditRequest->getNachname() ?>, schicken Sie Ihren Kreditvertrag bis morgen zurück. Schnelle Auszahlung und Zalando-Gutschein für Sie!

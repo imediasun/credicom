@@ -1,0 +1,1 @@
+Sehr <?= ($creditRequest->getAnr() == 1) ? 'geehrter Herr' : 'geehrte Frau'  ?> <?= $creditRequest->getNachname() ?>, leider haben Sie auf unser Kreditangebot nicht reagiert. Wir stellen Ihren Kreditvertrag bei der Bank in Storno.

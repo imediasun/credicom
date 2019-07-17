@@ -1,0 +1,1 @@
+anbei der Datensatz von <?= $client->getVorname() ?> <?= $client->getNachname() ?>

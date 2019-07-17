@@ -1,0 +1,9 @@
+{
+    "violations": [
+      {
+        "message": "DistributionLine: Borrower (1454329) with credit (11381145) was not accepted",
+        "parameters": []
+      }
+    ],
+    "is_success": false
+}
